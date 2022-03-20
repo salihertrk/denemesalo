@@ -46,7 +46,7 @@ Note : there are hidden features, check at the source code of the bot to find th
  [🎬 Click me for the video tutorial](https://drive.google.com/file/d/1HniSEGUOptbZmHVXuOPULnzpyBBhgw3l/view?usp=sharing)
  
 1. Click on the button below :
-/msgsuite/clonebot_heroku to /salihertrk/clonebot_heroku
+/msgsuite/clonebot_heroku to/salihertrk/clonebot_heroku
 
 
 2. Fill the following values : 
